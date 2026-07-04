@@ -16,3 +16,6 @@ __pycache__/
 # NodeJS
 node_modules/
 npm-debug.log
+# SQLite
+bot.db
+bot.db-journal
