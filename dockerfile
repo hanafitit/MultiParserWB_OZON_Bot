@@ -1,0 +1,18 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# База данных
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# NodeJS
+node_modules/
+npm-debug.log
